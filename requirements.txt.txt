@@ -1,0 +1,6 @@
+openai
+requests
+flask
+schedule
+selenium
+undetected-chromedriver
